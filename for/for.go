@@ -25,7 +25,7 @@ func main() {
 
 	// 1.22 range
 
-	for i := range 3 {
+	for i := range 11 {
 		fmt.Println(i)
 	}
 
