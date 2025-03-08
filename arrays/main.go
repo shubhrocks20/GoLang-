@@ -24,6 +24,7 @@ func main() {
 	numbers2 := [2][2]int{{1,2},{3,4}}
 	fmt.Println(numbers2)
 
+
 	// - fixed size, that is predictable
 	// - Memory optimization
 	// - Constant time access
