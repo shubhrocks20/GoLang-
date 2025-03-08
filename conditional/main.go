@@ -33,5 +33,4 @@ func main() {
 	}
 	// go doesnot have ternary operator, you will have to use normal if else
 
-	
 }
